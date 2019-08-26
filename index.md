@@ -15,7 +15,12 @@ Ayanda is an Open Source Android Library that makes it easy to discover nearby d
  - Tested the bluetooth functionality on various physical android devices.
  - [Screenshots](https://drive.google.com/drive/folders/0B7nXUQ68yx8Qfk1kQWNSSWQ0aXdHVHBCTzYyVHY2WW1abk9MUE5fekhVbjBYRDBTRE1ETk0?usp=sharing)
  - Tested Devices :
-
+ 
+<style>
+.tablelines table, .tablelines td, .tablelines th {
+        border: 1px solid black;
+        }
+</style>
 | Device                      | Android version   
 -----------------------------------------------------    
 | Poco F1                     | Android 9.0  
@@ -40,7 +45,7 @@ Ayanda is an Open Source Android Library that makes it easy to discover nearby d
 | Honor Holly 3               | Android 6.0  
 | Lenovo Z2 plus              | Android 7.0  
 | Redmi note4                 | Android 7.0
- 
+{: .tablelines}
  
 ### Unit testing :
 Unit tests for core ayanda classes and ui elements are written using Roboelectric. 
