@@ -15,7 +15,7 @@ Ayanda is an Open Source Android Library that makes it easy to discover nearby d
  - Tested the bluetooth functionality on various physical android devices.
  - [Screenshots](https://drive.google.com/drive/folders/0B7nXUQ68yx8Qfk1kQWNSSWQ0aXdHVHBCTzYyVHY2WW1abk9MUE5fekhVbjBYRDBTRE1ETk0?usp=sharing)
  - Tested Devices :
-```
+
 | Device                      | Android version   
 -----------------------------------------------------    
 | Poco F1                     | Android 9.0  
@@ -41,7 +41,7 @@ Ayanda is an Open Source Android Library that makes it easy to discover nearby d
 | Lenovo Z2 plus              | Android 7.0  
 | Redmi note4                 | Android 7.0
  
-```
+ 
 ### Unit testing :
 Unit tests for core ayanda classes and ui elements are written using Roboelectric. 
  - [unit tests for core ayanda classes](https://github.com/sabzo/ayanda/pull/48)
