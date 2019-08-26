@@ -69,5 +69,6 @@ First of all, this would not have been possible without the support of my mentor
 Next, I would like to thank Google for organising such an amazing program for students who are passionate about coding and giving them an opportunity to gain some hands-on experience.
 
 Last but not the least, I would like to thank my family for teaching me that it’s okay to fail, to fall and hit a dead end, but never give up.
-___
+
+### Contact
 Contact me at [atulnair2202@gmail.com](mailto:atulnair2202@gmail.com) if you have any queries regarding GSoC.
