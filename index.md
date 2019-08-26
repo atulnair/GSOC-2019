@@ -16,36 +16,7 @@ Ayanda is an Open Source Android Library that makes it easy to discover nearby d
  - [Screenshots](https://drive.google.com/drive/folders/0B7nXUQ68yx8Qfk1kQWNSSWQ0aXdHVHBCTzYyVHY2WW1abk9MUE5fekhVbjBYRDBTRE1ETk0?usp=sharing)
  - Tested Devices :
  
-<style>
-.tablelines table, .tablelines td, .tablelines th {
-        border: 1px solid black;
-        }
-</style>
-| Device                      | Android version   
------------------------------------------------------    
-| Poco F1                     | Android 9.0  
-| Moto G5S plus               | Android 8.0  
-| Redmi note5 pro             | Android 9.0  
-| Oppo A37                    | Android 5.1.1  
-| Vivo y53                    | Android 6.0  
-| Moto G5S plus               | Android 8.0.1  
-| Samsung J5 pro SMJ530F      | Android 7.0  
-| Motorola one power P30 note | Android 9.0  
-| Oppo A37F                   | Android 5.1  
-| Lava Z61_2GB                | Android 8.1.0  
-| LG K10                      | Android 8.1  
-| Lenovo A7020                | Android 6.1  
-| SM-G611FF                   | Android 9  
-| Realme 1                    | Android 8.1.0  
-| Nokia 2.1                   | Android 9 go e  
-| VivoY81                     | Android 8.1.0  
-| Samsung galaxy Note 4       | Android 6.0.1  
-| Moto g6                     | Android 9  
-| Samsung j6                  | Android 9  
-| Honor Holly 3               | Android 6.0  
-| Lenovo Z2 plus              | Android 7.0  
-| Redmi note4                 | Android 7.0
-{: .tablelines}
+![devices ](gsocimg.jpg?raw=true "Devices")
  
 ### Unit testing :
 Unit tests for core ayanda classes and ui elements are written using Roboelectric. 
