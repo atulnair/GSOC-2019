@@ -1,5 +1,4 @@
 theme: jekyll-theme-slate
-title: Final report - Google Summer of Code 2019
 markdown: kramdown
 kramdown:
  input: GFM
